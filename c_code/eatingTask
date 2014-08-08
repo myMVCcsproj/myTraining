@@ -1,0 +1,18 @@
+using system.io
+
+namespace eatingTask
+{
+  public class eatingTask
+  {
+    private eatingTask()
+    {
+    }
+  
+    public int mainMethod()
+    {
+      Write.Console("OOXX");
+    
+      return 0;
+    }
+  }
+}
