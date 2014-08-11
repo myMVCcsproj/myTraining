@@ -10,7 +10,7 @@ namespace codingTask
   
     public int mainMethod()
     {
-      Write.Console("I love java sparrow!!");
+      Write.Console("OOXX");
     
       return 0;
     }
