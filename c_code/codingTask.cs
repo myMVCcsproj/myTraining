@@ -13,7 +13,7 @@ namespace codingTask
       Write.Console("My lovely Birds");
       
       ////this is a modified code.
-      Write.Console("a lot of Birds");
+      Write.Console("a lot of dogs");
     
       return 0;
     }
