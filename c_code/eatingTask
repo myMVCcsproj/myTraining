@@ -11,6 +11,7 @@ namespace eatingTask
     public int mainMethod()
     {
       Write.Console("OOXX");
+      Write.Console("Bird");
     
       return 0;
     }
