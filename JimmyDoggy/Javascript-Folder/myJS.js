@@ -1,1 +1,3 @@
-<script>catalyst.js</script>
+<script>
+console.log("haha");
+catalyst.js</script>
