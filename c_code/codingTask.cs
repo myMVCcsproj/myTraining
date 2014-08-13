@@ -15,6 +15,9 @@ namespace codingTask
       ////this is a modified code.
       Write.Console("a lot of dogs");
     
+    ////this is a bird code.
+      Write.Console("a lot of birds");
+    
       return 0;
     }
   }
